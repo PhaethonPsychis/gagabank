@@ -11,7 +11,7 @@ You can start accepting payments in your gagabank account</br>
 You can set a minimum and or a maximum amount for each transaction</br>
 Store the sponors addresses in a list to use for distribution of products or services when the project is ready</br>
 #### Create multiple incoming Payment methods
-<br>User can use any of the following payment methods</br>
+<br>Sponsors can use any of the following payment methods</br>
 <br>1. The application interface if you have one. It is not necessary to create one</br>
 <br>2. Etherscan.io website</br>
 <br>3. Use any Crypto wallet</br>
