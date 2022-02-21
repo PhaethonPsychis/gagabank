@@ -116,17 +116,19 @@ contract preSale is Ownable {
   }
 
 // Transfer funds operations
-  function TransferFunds(address payable _owner) public payable {
+//Owner transfer funds to recipients
+  function Payout(address payable _to) public payable onlyOwner {
         // Call returns a boolean value indicating success or failure.
         // This is the current recommended method to use.
-    (bool sent,) = _owner.call{value: msg.value}("");
+    (bool sent,) = _to.call{value: msg.value}("");
     require(sent, "Failed to send Ether");
     
   }
+//Owner withdraw amount
 
   function withdraw() public payable onlyOwner {
-        payable(msg.sender).transfer(address(this).balance);        
-    }
+     (bool sent,) =  payable(msg.sender).call{value: (address(this).balance)("");
+       
 }
 
 //https://docs.soliditylang.org/en/latest/solidity-by-example.html
