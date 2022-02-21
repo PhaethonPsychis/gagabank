@@ -1,4 +1,4 @@
-# gagabank
+# playmaker
 Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.
 #### Design Principles
 Store data such as sponsors addresses on an external database because is very cheap. The alternative is to create a solidity mapping and store data on the blockchain which is very expensive and not necessary</br>
