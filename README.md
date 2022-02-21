@@ -1,10 +1,10 @@
 # gagabank
 Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.
 #### Design Principles
-Increase security on blockchain transactions.</br>
+Store data such as sponsors addresses on an external database because is very cheap. The alternative is to create a solidity mapping and store data on the blockchain which is very expensive and not necessary</br>
 Minimize the cost of contract deployment</br>
-Minimize the transaction cost for the end user. How to do it? We reduce the gas consumption for the owner and the users. We use the Ethereum blockchain as a settlement and computation layer and not for storing data since the cost of block space is very high. We store data on an external database which is very cheap
-# What can we do on gagabank?
+Minimize the transaction cost for the end user</br>
+Perform calculations off-chain</br>
 #### Launch a pre-sale for a digital artifact that is decentralised and permissionless
 You can start accepting payments in your gagabank account</br>
 You can set a minimum and or a maximum amount for each transaction</br>
@@ -16,4 +16,9 @@ Store the sponors addresses in a list to use for distribution of products or ser
 <br>3. Use any Crypto wallet</br>
 
 ### Create multiple PayOut payment methods for the project owners
+
+### Next steps: 
+Sign Transactions off-chain</br>
+Distribute a token to list members</br>
+
 
