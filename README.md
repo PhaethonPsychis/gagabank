@@ -7,7 +7,7 @@ Minimize the transaction cost for the end user</br>
 Perform calculations off-chain</br>
 
 # A decentralised and permissionless platform for presale
-You can start accepting payments in your gagabank account</br>
+You can start accepting payments in your playmaker account</br>
 You can set a minimum and or a maximum amount for each transaction</br>
 Store the sponors addresses in a list to use for distribution of products or services when the project is ready</br>
 #### Create multiple incoming Payment methods
