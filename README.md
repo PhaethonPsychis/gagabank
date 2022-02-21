@@ -5,7 +5,8 @@ Store data such as sponsors addresses on an external database because is very ch
 Minimize the cost of contract deployment</br>
 Minimize the transaction cost for the end user</br>
 Perform calculations off-chain</br>
-#### Launch a pre-sale for a digital artifact that is decentralised and permissionless
+
+# Launch a pre-sale for a digital artifact that is decentralised and permissionless
 You can start accepting payments in your gagabank account</br>
 You can set a minimum and or a maximum amount for each transaction</br>
 Store the sponors addresses in a list to use for distribution of products or services when the project is ready</br>
