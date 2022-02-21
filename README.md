@@ -1,6 +1,6 @@
 # gagabank
 Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.
-#### Design Principles
+### Design Principles
 Increase security on blockchain transactions.</br>
 Minimize the cost of contract deployment</br>
 Minimize the transaction cost for the end user. How to do it? We reduce the gas consumption for the owner and the users. We use the Ethereum blockchain as a settlement and computation layer and not for storing data since the cost of block space is very high. We store data on an external database which is very cheap
