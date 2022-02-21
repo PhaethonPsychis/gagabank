@@ -1,5 +1,5 @@
 # gagabank
-Receive money. Transfer funds. You are the bank. A simple and powerful contract on the Ethereum blockchain that implements latest design patterns on bank accounts.
+Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.
 #### Design Principles
 Increase security on blockchain transactions.</br>
 Minimize the cost of contract deployment</br>
