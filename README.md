@@ -1,5 +1,12 @@
 # playmaker
-Launch a presale. Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.
+Launch a presale. Receive money. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to start a presale.</br>
+
+Imagine Alice wants to raise some Ether to launch her startup project. She needs a bank platform to accept donations from friends and family. Bob wants to send some Ether to Alice's project. Bob is the sender and Alice is the recipient.
+Alice will launch a simple smart contract that lets her receive and transmit Ether. 
+For payments she will use the same account but instead of calling a function herself to initiate a payment, she will let a recipient do that, and therefore pay the transaction fee.
+When the presale is over Alice will launch the project and she will use the list of addresses to send her sponsors their membership cards
+
+
 #### Design Principles
 Store data such as sponsors addresses on an external database because is very cheap. The alternative is to create a solidity mapping and store data on the blockchain which is very expensive and not necessary</br>
 Minimize the cost of contract deployment</br>
