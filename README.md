@@ -1,4 +1,4 @@
-# playmaker
+# playmaker. Raise like is 2017
 Launch a presale. Receive payments. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to make a presale.</br>
 #### Usecase description
 Imagine Alice wants to raise some Ether to finish the her new project. She wants to launch a presale and offer to her community the opportunity to buy the artifact with a discount. This type of fundraising is like what the kickstarter is doing but here there are no intermediaries. Its just Alice and her friends. Alice needs a bank platform that is decentralised, permissionless and crypto friendly to accept donations from friends and family easily.</br>
