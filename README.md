@@ -15,7 +15,7 @@ Perform calculations off-chain whenever is possible</br>
 
 # What you can do on the presale platform?
 1.0 You can start accepting payments in your playmaker account</br>
-2.0 You can set a minimum and or a maximum amount for participation in the presale</br>
+2.0 You can set the presale price for the object </br>
 3.0 Store the sponors addresses in a list to use for distribution of products or services when the project is ready</br>
 4.0 Create multiple incoming Payment methods to allow sponsors register to the presale and send contributions</br>
 4.1 The application interface. Sponsor can use the online website </br>
