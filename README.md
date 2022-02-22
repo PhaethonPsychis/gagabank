@@ -1,14 +1,14 @@
 # playmaker. Raise like is 2017
 Launch a presale. Receive payments. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to make a presale.</br>
 #### Usecase description
-Imagine Alice wants to raise some Ether to finish the her new project. She wants to launch a presale and offer to her community the opportunity to buy the artifact with a discount. This type of fundraising is like what the kickstarter is doing but here there are no intermediaries. Its just Alice and her friends. Alice needs a bank platform that is decentralised, permissionless and crypto friendly to accept donations from friends and family easily.</br>
+Imagine Alice wants to raise some Ether to finish her new project. She wants to launch a presale and offer her community the opportunity to buy the artifact with a discount. This type of fundraising is like what Kickstarter is doing but here there are no intermediaries. It's just Alice and her friends. Alice needs a bank platform that is decentralized, permissionless, and crypto-friendly to accept donations from friends and family easily..</br>
 Bob wants to send some Ether to Alice's project. Bob is the sender and Alice is the recipient. Alice creates a playmaker bank that lets her receive Ether.</br>
-Alice will also need to transmit Ether from her bank to external accounts. For payments she will use the same account but instead of calling a function herself to initiate a payment, she will let a recipient do that, and therefore pay the transaction fee. Alice will store the addresses and the associated amounts in a ledger inside her bank. The account is public and everyone can inspect how Alice is managing the money for the project.</br>
+Alice will also need to transmit Ether from her bank to external accounts. For payouts instead of calling a function herself to initiate a payment, she will let a recipient do that, and therefore pay the transaction fee. Alice will store the addresses and the associated amounts in a ledger inside the bank. The account is public and everyone can inspect the administration. </br>
 Alice will use the list of addresses to send sponsors their product. 
 
 
 #### Design Principles
-Store data such as sponsors addresses on an external database because is very cheap. The alternative is to create a solidity mapping and store data on the blockchain which is very expensive and not necessary</br>
+Store data such as sponsors addresses on an external database. Only public keys is stored here. The application will never request secret keys</br>
 Make the contract light and reduce the cost for deployment</br>
 Minimize the transaction cost for the end user</br>
 Perform calculations off-chain whenever is possible</br>
