@@ -1,5 +1,5 @@
 # playmaker. Raise like is 2017
-Launch a presale. Receive payments. Transfer funds. You are the bank. A simple and powerful platform on the Ethereum blockchain to make a presale.</br>
+Launch a presale. Receive money. Register your sponsors. Playmaker is a simple and powerful fundraising protocol on the Ethereum blockchain. It is a self-custodial platform, permissionless and decentralised. You are in control. </br>
 #### Usecase description
 Imagine Alice wants to raise some Ether to finish her new project. She wants to launch a presale and offer her community the opportunity to buy the artifact with a discount. This type of fundraising is like what Kickstarter is doing but here there are no intermediaries. It's just Alice and her friends. Alice needs a bank platform that is decentralized, permissionless, and crypto-friendly to accept donations from friends and family easily..</br>
 Bob wants to send some Ether to Alice's project. Bob is the sender and Alice is the recipient. Alice creates a playmaker bank that lets her receive Ether.</br>
