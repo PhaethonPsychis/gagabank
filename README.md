@@ -24,7 +24,7 @@ Perform calculations off-chain whenever is possible</br>
 5.0 Create PayOut payment methods for the project owners
 
 ### Next steps: 
-Distribute a token to list members</br>
+Let sponsors purchase the product at the pre-arranged price. Use the address-list</br>
 Sign Transactions off-chain</br>
 
 
