@@ -111,12 +111,14 @@ contract preSale is Ownable {
     emit Registration(msg.sender, msg.value);
   }
   // introduce fallback function
+  // TODO allow owner to set msg.value as a parameter
   fallback () external payable {
     require(msg.value >= 0.1 * (1 ether), "not enough funds");
   }
 
 // Transfer funds operations
 //Owner transfer funds to recipients
+// TODO Introduce mapping to allow for recipients to initiate transaction
   function Payout(address payable _to) public payable onlyOwner {
         // Call returns a boolean value indicating success or failure.
         // This is the current recommended method to use.
