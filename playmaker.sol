@@ -118,7 +118,8 @@ contract preSale is Ownable {
 
 // Transfer funds operations
 //Owner transfer funds to recipients
-// TODO Introduce mapping to allow for recipients to initiate transaction
+// TODO Introduce mapping to allow owner to register  recipients and amounts
+// The intention of this functio is to allow recipients to initiate the transfer
   function Payout(address payable _to) public payable onlyOwner {
         // Call returns a boolean value indicating success or failure.
         // This is the current recommended method to use.
@@ -126,11 +127,22 @@ contract preSale is Ownable {
     require(sent, "Failed to send Ether");
     
   }
-//Owner withdraw amount
+//Only Owner set withdraw amount
 
+    function withdraw(uint _amount) external onlyOwner {
+    //    require(owner() == _msgSender(), "Ownable: caller is not the owner");
+        require(_amount < (address(this).balance), "not enough funds");
+        payable(msg.sender).transfer(_amount);
+    }
+
+    function getBalance() external view returns (uint) {
+        return address(this).balance;
+    }
+//Only Owner withdraw contract balance using call
   function withdraw() public payable onlyOwner {
-     (bool sent,) =  payable(msg.sender).call{value: (address(this).balance)("");
+     (bool sent,) =  (msg.sender).call{value: (address(this).balance)}("");
        
+    }
 }
 
 //https://docs.soliditylang.org/en/latest/solidity-by-example.html
