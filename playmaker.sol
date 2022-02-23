@@ -96,6 +96,7 @@ abstract contract Ownable is Context {
     }
 }
 
+
 contract preSale is Ownable {
 
   using SafeMath for uint256;
@@ -139,10 +140,29 @@ contract preSale is Ownable {
         return address(this).balance;
     }
 //Only Owner withdraw contract balance using call
-  function withdraw() public payable onlyOwner {
-     (bool sent,) =  (msg.sender).call{value: (address(this).balance)}("");
+    function withdraw() public payable onlyOwner {
+        (bool sent,) =  (msg.sender).call{value: (address(this).balance)}("");
        
     }
-}
 
-//https://docs.soliditylang.org/en/latest/solidity-by-example.html
+    function sendViaCall(address payable _to) public payable onlyOwner {
+        // Call returns a boolean value indicating success or failure.
+        // This is the current recommended method to use.
+        (bool sent, bytes memory data) = _to.call{value: msg.value}("");
+        require(sent, "Failed to send Ether");
+    }
+
+    mapping (address => uint) recipientLedger;
+    // onlyOwner sets amount and recipients in payoutLedger
+
+    function setAmountRecipient(uint _amount, address payable _recipient) internal onlyOwner;
+
+    //recipient initiates payment
+    function payout() public {
+        uint amount = recipientLedger[msg.sender];
+        // Remember to zero the pending refund before
+        // sending to prevent re-entrancy attacks
+        pendingWithdrawals[msg.sender] = 0;
+        payable(msg.sender).transfer(amount);
+    }
+}
