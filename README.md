@@ -1,6 +1,7 @@
 # playmaker. Raise like is 2017
-The purpose of this contract is to receive money from addresses</br>
-and allow owner to store addresses off-chain in external database in the presale_list<br>
+The purpose of this contract is to allow users to register in a presale_list by sending a transaction with a specified amount of Ether</br>
+The contract exposes methods to receive, store and transfer  money from and to addresses</br>
+The owner store addresses off-chain in external database in the presale_list<br>
 # Parameters
 amount</br>
 msg.sender</br>
