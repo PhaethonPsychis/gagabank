@@ -2,6 +2,7 @@
 The purpose of this contract is to allow users to register in a presale_list by sending a transaction with a specified amount of Ether</br>
 The contract exposes methods to receive, store and transfer  Ether from and to addresses</br>
 The owner store addresses off-chain in external database in the presale_list<br>
+Because Ethereum gas is super expensive and we want to save money we take off-chain whatever can be taken off-chain such as storage of lists, calculations and forr-loops</br>
 # Parameters
 amount</br>
 msg.sender</br>
