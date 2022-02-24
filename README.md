@@ -8,8 +8,8 @@ msg.sender</br>
 msg.value</br>
 maxCountId</br>
 # How it works
-1. the product-service of the pre-sale is described in the front-end and this contract is agnostice to it.
-2. Onwer sets a price for the product
+1. the product-service of the pre-sale is described in the front-end and this contract is agnostic to it.
+2. Onwer sets a price for the presale
 3. Owner sets the maximum number of sales this contract can do
 4. User initiates transaction and contract receives the amount. Contract emits event
 5. owner stores the events in the external database in the presale_list
