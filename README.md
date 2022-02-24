@@ -13,8 +13,8 @@ maxCountId</br>
 3. Owner sets the maximum number of sales this contract can do
 4. User initiates transaction and contract receives the amount. Contract emits event
 5. owner stores the events in the external database in the presale_list
-6. After 
-# The utility of this contract is terminated 
+6. After the presale is over, the owner users the contract to manage the funds or sends the fund to a multi-sig gnosis wallet, or transfers ownership of this contract to a multi-sig. 
+# Next step: How to use the preale_list in the NFT minting contract 
 ### References for design
 # The argument against on-chain presale/allow lists
 There are a lot of different strategies for how to handle a presale list for an NFT drop. You’ll also hear it referred to as a whitelist, or allow-list amongst other names. It simply refers to a list of pre-approved addresses that are allowed to interact with the contract in a specified way, eg. minting during a presale window.
