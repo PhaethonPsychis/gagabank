@@ -18,7 +18,7 @@ maxCountId</br>
 ### References for design
 # The argument against on-chain presale/allow lists
 There are a lot of different strategies for how to handle a presale list for an NFT drop. You’ll also hear it referred to as a whitelist, or allow-list amongst other names. It simply refers to a list of pre-approved addresses that are allowed to interact with the contract in a specified way, eg. minting during a presale window.
-A common approach is to simply include a data structure in the contract’s storage that maps each address to a bool, or each address to the number of mints that address is allowed, which might look something like:
+A common approach is to simply include a data structure in the contract’s storage that maps each address to a bool, or each address to the number of mints that address is allowed, which might look something like:</br>
 mapping(address => uint8) _allowList;
 function setAllowList(
 address[] calldata addresses, 
@@ -28,5 +28,6 @@ uint8 numAllowedToMint
     _allowList[addresses[i]] = numAllowedToMint;
   }
 }
-
+<br> There’s absolutely nothing wrong this approach, but it can get a little costly on the contract owner’s side (the onlyOwner modifier indicates this function can only be called by the contract owner) when populating the address lists. If you need to add something like 1000 addresses to the presale list, that’s a lot of gas being spent on storage operations. Because The Humans contract had to account for several different “lists” (Authors, Honoraries, Presale, Genesis Claims), we came to the conclusion that this was probably not the best approach for us.
+</br>
 
