@@ -1,6 +1,7 @@
 # playmaker. Raise like is 2017
-The purpose of this contract is to receive money from addresses, and allow owner to store addresses in external database in the presale_list<br>
-Parameters:</br>
+The purpose of this contract is to receive money from addresses</br>
+and allow owner to store addresses off-chain in external database in the presale_list<br>
+# Parameters
 amount</br>
 msg.sender</br>
 msg.value</br>
