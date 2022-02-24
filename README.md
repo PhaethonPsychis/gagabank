@@ -15,9 +15,18 @@ maxCountId</br>
 5. owner stores the events in the external database in the presale_list
 6. After 
 # The utility of this contract is terminated 
-#References for design
-### The argument against on-chain presale/allow lists
+### References for design
+# The argument against on-chain presale/allow lists
 There are a lot of different strategies for how to handle a presale list for an NFT drop. You’ll also hear it referred to as a whitelist, or allow-list amongst other names. It simply refers to a list of pre-approved addresses that are allowed to interact with the contract in a specified way, eg. minting during a presale window.
 A common approach is to simply include a data structure in the contract’s storage that maps each address to a bool, or each address to the number of mints that address is allowed, which might look something like:
+mapping(address => uint8) _allowList;
+function setAllowList(
+address[] calldata addresses, 
+uint8 numAllowedToMint
+) external onlyOwner {
+  for (uint256 i = 0; i < addresses.length; i++) {
+    _allowList[addresses[i]] = numAllowedToMint;
+  }
+}
 
 
