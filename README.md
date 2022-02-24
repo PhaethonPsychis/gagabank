@@ -32,7 +32,7 @@ uint8 numAllowedToMint
 ```
 <br> There’s absolutely nothing wrong this approach, but it can get a little costly on the contract owner’s side (the onlyOwner modifier indicates this function can only be called by the contract owner) when populating the address lists. If you need to add something like 1000 addresses to the presale list, that’s a lot of gas being spent on storage operations. Because The Humans contract had to account for several different “lists” (Authors, Honoraries, Presale, Genesis Claims), we came to the conclusion that this was probably not the best approach for us.
 </br>
-# why not a Mrkle Tree?
+# why not a Merkle Tree?
 read here</br>
 https://betterprogramming.pub/handling-nft-presale-allow-lists-off-chain-47a3eb466e44</br>
 
