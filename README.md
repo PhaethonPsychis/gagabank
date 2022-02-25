@@ -7,7 +7,7 @@ Imagine Alice wants to raise some Ether to finish her new project. She wants to 
 Alice needs a bank platform that is decentralized, permissionless, and crypto-friendly to accept donations from friends and family easily.</br>
 Bob wants to send some Ether to Alice's project. Bob is the sender and Alice is the recipient. Alice creates a playmaker bank that lets her receive Ether.</br>
 
-#### Benefits for the 
+#### Fair distribution of product and services to the community at significant discount
 
 #### Creating the list of sponsors
 Alice wants to store the addresses of all her supporters supporters in a list along with the amount that they have sent. She will use this list to allow sponsors to purchase the product when launched at the price agreed. Store data such as sponsors addresses on an external database. Only public keys is stored here. The application will never request secret keys</br>
