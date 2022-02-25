@@ -1,18 +1,24 @@
 # playmaker. Raise like is 2017
-Launch a presale. Receive money. Register your sponsors. Playmaker is a simple and powerful fundraising protocol on the Ethereum blockchain. It is a self-custodial contract, permissionless and decentralised. You are in control. </br>
+What the project creator can do with this contract?.Launch a presale. Receive money. Register your sponsors. Playmaker is a simple and powerful fundraising protocol on the Ethereum blockchain. It is a self-custodial contract, permissionless and decentralised. You are in control</br>
+What a consumer can do with this contract? 
+Consumer can pre-register for an up-coming sale of a product and take advantage of reduced prices.</br>
 #### Usecase description
 Imagine Alice wants to raise some Ether to finish her new project. She wants to launch a presale and offer her community the opportunity to buy the artifact with a discount. There are not any intermediaries. It's just Alice and her friends.
 Alice needs a bank platform that is decentralized, permissionless, and crypto-friendly to accept donations from friends and family easily.</br>
 Bob wants to send some Ether to Alice's project. Bob is the sender and Alice is the recipient. Alice creates a playmaker bank that lets her receive Ether.</br>
-Alice wants to store the addresses of all her supporters supporters in a list along with the amount that they have sent. She will use this list to allow sponsors to purchase the product when launched at the price agreed.
-#### Managing the money in the bank
-Alice will also need to transmit Ether from her bank to external accounts. For payouts instead of calling a function herself to initiate a payment, she will let a recipient do that, and therefore pay the transaction fee. Alice will store the addresses and the associated amounts in a ledger inside the bank. The account is public and everyone can inspect the administration. </br>
-Alice will use the list of addresses to send sponsors their product. 
 
+#### Benefits for the 
 
-#### Design Principles
-Store data such as sponsors addresses on an external database. Only public keys is stored here. The application will never request secret keys</br>
-Make the contract light and reduce the cost for deployment</br>
+#### Creating the list of sponsors
+Alice wants to store the addresses of all her supporters supporters in a list along with the amount that they have sent. She will use this list to allow sponsors to purchase the product when launched at the price agreed. Store data such as sponsors addresses on an external database. Only public keys is stored here. The application will never request secret keys</br>
+
+#### Payout functions
+Alice will also need to transmit Ether from her bank to external accounts.</br> 
+For payouts she will use the solidity withdrwal instead of calling a function herself to initiate a payment, she will let a recipient do that, and therefore pay the transaction fee. Alice will store the addresses and the associated amounts in a ledger inside the bank. The account is public and everyone can inspect the administration. </br>
+
+#### Cost considerations and design decisions
+
+Minimize the cost for contract operations for the owner</br>
 Minimize the transaction cost for the end user</br>
 Perform calculations off-chain whenever is possible</br>
 
