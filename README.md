@@ -1,7 +1,8 @@
 # playmaker. Raise like is 2017
 What the project creator can do with this contract?.Launch a presale. Receive money. Register your sponsors. Playmaker is a simple and powerful fundraising protocol on the Ethereum blockchain. It is a self-custodial contract, permissionless and decentralised. You are in control</br>
-What a consumer can do with this contract? 
-Consumer can pre-register for an up-coming sale of a product and take advantage of reduced prices.</br>
+What a consumer can do with this contract? </br>
+Register for an up-coming sale of a product and take advantage of reduced prices.</br>
+Support a project she loves to raise money and launch</br>
 #### Usecase description
 Imagine Alice wants to raise some Ether to finish her new project. She wants to launch a presale and offer her community the opportunity to buy the artifact with a discount. There are not any intermediaries. It's just Alice and her friends.
 Alice needs a bank platform that is decentralized, permissionless, and crypto-friendly to accept donations from friends and family easily.</br>
