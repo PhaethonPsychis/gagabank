@@ -1,40 +1,5 @@
+
 //SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
-
-
-import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-
-/**
- * Ethereum Metaverse Lands Community Conference
- * @dev An ERC20 ticket for the EMLCC incentivised conference and ecosystem launch
- * Token distribution at creation time 
- * 2.5 Million tickets "tickets4Sale" available for purchase are transferred to the token contract address;
- * 0.25 Million tickets "ticketsDrop" rewards for researchers, volunteers and incentivize community participation are transferred to the owners address   
- * Support for the owner (the DAO) to mint new tokens, at up to 2% PA.  
- *         
- *       
- */
-
-
-contract ERC20Tickets is ERC20, Ownable {
-
-
-    constructor (
-        uint256 tickets4Sale,
-        uint256 ticketsDrop
-    )
-
-        ERC20("Ethereum Metaverse Lands", "EMLCC"){
-
-            _mint(msg.sender, ticketsDrop);
-            _mint(address(this), tickets4Sale);
-        }
-
-
-}
-
-/SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol";
@@ -153,18 +118,18 @@ contract TicketsVendor is Ownable {
     require(msg.value >= 0.1 * (1 ether), "not enough funds");
   }
 
-// Transfer funds operations
-  function TransferFunds(address payable _owner) public payable {
-        // Call returns a boolean value indicating success or failure.
-        // This is the current recommended method to use.
-    (bool sent,) = _owner.call{value: msg.value}("");
-    require(sent, "Failed to send Ether");
-    
+  //Only owner function
+  // withdraw funds from the contract
+  //todo address msg.sender must be payable
+  function withdraw() public {
+      uint balance = balances[msg.sender];
+      require(balance >0);
+      require(msg.sender = owner, "Sorry mate!");
+      (bool success, ) = msg.sender.call{value: balance}("");
+      require(success, "Transfer Failed");
   }
+  
 
-  function withdraw() public payable onlyOwner {
-        payable(msg.sender).transfer(address(this).balance);        
-    }
 }
 
 //https://docs.soliditylang.org/en/latest/solidity-by-example.html
