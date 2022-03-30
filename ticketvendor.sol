@@ -94,18 +94,54 @@ abstract contract Ownable is Context {
         emit OwnershipTransferred(oldOwner, newOwner);
     }
 }
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.13;
 
-contract TicketsVendor is Ownable {
 
-  using SafeMath for uint256;
+//import "@openzeppelin/contracts/access/Ownable.sol";
+import "./ERC20Tickets.sol";
+
+
+/**
+ * @dev Provides information about the current execution context, including the
+ * sender of the transaction and its data. While these are generally available
+ * via msg.sender and msg.data, they should not be accessed in such a direct
+ * manner, since when dealing with meta-transactions the account sending and
+ * paying for execution may not be the actual sender (as far as an application
+ * is concerned).
+ *
+ * This contract is only required for intermediate, library-like contracts.
+ */
+
+
+/**
+ * @dev Contract module which provides a basic access control mechanism, where
+ * there is an account (an owner) that can be granted exclusive access to
+ * specific functions.
+ *
+ * By default, the owner account will be the one that deploys the contract. This
+ * can later be changed with {transferOwnership}.
+ *
+ * This module is used through inheritance. It will make available the modifier
+ * `onlyOwner`, which can be applied to your functions to restrict their use to
+ * the owner.
+ */
+
+
+contract ticketVendor is Ownable {
+
+
+
 
   uint public amount;
   uint public price;
   // address payable public owner;
   event Registration(address, uint);
 
-  constructor() {
-  
+  ERC20Tickets public ERC20Tickets_;
+
+  constructor(address tokenAddress) {
+    ERC20Tickets_ = ERC20Tickets(tokenAddress);
   }
 
     // 10000000000000000 convert 0.01 eth to wei 1e16
@@ -122,7 +158,7 @@ contract TicketsVendor is Ownable {
   // withdraw funds from the contract
   //todo address msg.sender must be payable
   function withdraw() public {
-      uint balance = balances[msg.sender];
+      uint256 balance = _balances[msg.sender];
       require(balance >0);
       require(msg.sender = owner, "Sorry mate!");
       (bool success, ) = msg.sender.call{value: balance}("");
