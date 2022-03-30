@@ -1,20 +1,14 @@
-
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol";
+
+//import "@openzeppelin/contracts/access/Ownable.sol";
+import "./ERC20Tickets.sol";
+//import "@openzeppelin/contracts/utils/Context.sol";
 
 
-/**
- * @dev Provides information about the current execution context, including the
- * sender of the transaction and its data. While these are generally available
- * via msg.sender and msg.data, they should not be accessed in such a direct
- * manner, since when dealing with meta-transactions the account sending and
- * paying for execution may not be the actual sender (as far as an application
- * is concerned).
- *
- * This contract is only required for intermediate, library-like contracts.
- */
+
+
 abstract contract Context {
     function _msgSender() internal view virtual returns (address) {
         return msg.sender;
@@ -71,9 +65,9 @@ abstract contract Ownable is Context {
      * NOTE: Renouncing ownership will leave the contract without an owner,
      * thereby removing any functionality that is only available to the owner.
      */
-    function renounceOwnership() public virtual onlyOwner {
-        _transferOwnership(address(0));
-    }
+    //function renounceOwnership() public virtual onlyOwner {
+    //    _transferOwnership(address(0));
+    //}
 
     /**
      * @dev Transfers ownership of the contract to a new account (`newOwner`).
@@ -94,13 +88,6 @@ abstract contract Ownable is Context {
         emit OwnershipTransferred(oldOwner, newOwner);
     }
 }
-//SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
-
-
-//import "@openzeppelin/contracts/access/Ownable.sol";
-import "./ERC20Tickets.sol";
-
 
 /**
  * @dev Provides information about the current execution context, including the
@@ -131,9 +118,6 @@ import "./ERC20Tickets.sol";
 contract ticketVendor is Ownable {
 
 
-
-
-  uint public amount;
   uint public price;
   // address payable public owner;
   event Registration(address, uint);
@@ -141,29 +125,48 @@ contract ticketVendor is Ownable {
   ERC20Tickets public ERC20Tickets_;
 
   constructor(address tokenAddress) {
+
+    owner = payable(msg.sender);
     ERC20Tickets_ = ERC20Tickets(tokenAddress);
   }
+  // Allow owner to set the price for the tickets
+  function setTicketsPrice(uint price) public {
+      require(msg.sender = owner, "caller is not the owner");
+      _price = price;
+      return TicketPrice(_price);
+
+  }
+  // Allow anyone to purchase tickets
+    function purchaseTickets(uint amount) public payable {
+        require(msg.value >= amount * _price, "You must pay at least 0.01 ETH per ticket");
+        require(_balances[address(this)] >= amount, "Not enough tickets in stock to complete this purchase");
+        _balances[address(this)] -= amount;
+        _balances[msg.sender] += amount;
+    }
+
+
 
     // 10000000000000000 convert 0.01 eth to wei 1e16
-  receive() external payable {
-    require(msg.value >= amount * price, "not enough funds");
-    emit Registration(msg.sender, msg.value);
+     receive() external payable {
+        require(msg.value >= amount * price, "not enough funds");
+        emit Registration(msg.sender, msg.value);
   }
   // introduce fallback function
-  fallback () external payable {
-    require(msg.value >= 0.1 * (1 ether), "not enough funds");
+     fallback () external payable {
+        require(msg.value >= 0.1 * (1 ether), "not enough funds");
   }
 
   //Only owner function
   // withdraw funds from the contract
   //todo address msg.sender must be payable
-  function withdraw() public {
-      uint256 balance = _balances[msg.sender];
-      require(balance >0);
-      require(msg.sender = owner, "Sorry mate!");
-      (bool success, ) = msg.sender.call{value: balance}("");
-      require(success, "Transfer Failed");
+    function withdraw() public {
+       uint balance = _balances[msg.sender];
+       require(balance >0);
+       require(msg.sender = owner, "caller is not the owner");
+       (bool success, ) = msg.sender.call{value: balance}("");
+       require(success, "Transfer Failed");
   }
+
   
 
 }
