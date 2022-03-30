@@ -7,6 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 import "@openzeppelin/contracts/utils/Context.sol";
 
+// EMLCC Ethereum Metaverse Lands Community Conference
 //Introduction
 /**
  * @community An ERC20 digital ticket for the EMLCC Ethereum Metaverse Lands Community Conference
