@@ -7,7 +7,9 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 import "@openzeppelin/contracts/utils/Context.sol";
 
+//_______________________________________________________________________________________________________________________
 // EMLCC Ethereum Metaverse Lands Community Conference
+//_______________________________________________________________________________________________________________________
 //Introduction
 /**
  * @community An ERC20 digital ticket for the EMLCC Ethereum Metaverse Lands Community Conference
@@ -27,9 +29,11 @@ import "@openzeppelin/contracts/utils/Context.sol";
  * @dev Support for the owner EMLCC to mint new tickets, at up to 10% PM.      
  */
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Open source code. Flattened OZ contracts to allow for modifications 
-// technical documentationfor devs 
+//_______________________________________________________________________________________________________________________
+// Open source code to generate digital tickets as ERC20 standard
+//_______________________________________________________________________________________________________________________
+// Flattened OZ contracts to allow for modifications 
+// Decimals are set to 0
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
