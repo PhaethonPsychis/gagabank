@@ -480,7 +480,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 
 
 
-contract ERC20Tickets is ERC20, Ownable {
+contract MLITickets is ERC20, Ownable {
     uint256 public constant minimumMintInterval = 365 days;
     uint256 public constant mintCap = 200; // 2%
     uint256 public nextMint; // Timestamp
