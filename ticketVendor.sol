@@ -117,10 +117,12 @@ abstract contract Ownable is Context {
 
 contract ticketVendor is Ownable {
 
-
+  // Ticket price variable;
   uint public price;
-  // address payable public owner;
-  event Registration(address, uint);
+
+ // Event that log buy operation
+  //event purchaseTickets(address buyer, uint256 amountOfETH, uint256 amountOfTokens);
+  //event SellTokens(address seller, uint256 amountOfTokens, uint256 amountOfETH);
 
   ERC20Tickets public ERC20Tickets_;
 
@@ -137,11 +139,20 @@ contract ticketVendor is Ownable {
 
   }
   // Allow anyone to purchase tickets
-    function purchaseTickets(uint amount) public payable {
+  //Buyer sets the number of tickets to buy
+    function purchaseTickets(uint tickets) public payable returns (uint256 Tickets) {
         require(msg.value >= amount * _price, "You must pay at least 0.01 ETH per ticket");
-        require(_balances[address(this)] >= amount, "Not enough tickets in stock to complete this purchase");
-        _balances[address(this)] -= amount;
-        _balances[msg.sender] += amount;
+
+        // check if the ticketVendor Contract has enough amount of tickets for the transaction
+        uint256 ticketBalanceVendor = ERC2OTickets.balanceOf(address(this));
+        require(ERC2OTickets.balanceOf(address(this)) >= amount, "Not enough tickets in stock to complete this purchase");
+
+        //Transfer tickets to the message sender
+        (bool success, ) = msg.sender.call{value: tickets}("");
+        require(success, "Transfer Failed");
+
+        ERC2OTickets.balanceOf[address(this)] -= tickets;
+        ERC2OTickets.balanceOf[msg.sender] += tickets;
     }
 
 
@@ -156,10 +167,9 @@ contract ticketVendor is Ownable {
         require(msg.value >= 0.1 * (1 ether), "not enough funds");
   }
 
-  //Only owner function
-  // withdraw funds from the contract
+  //@dev Allow Only owner of the contract ro withdraw funds
   //todo address msg.sender must be payable
-    function withdraw() public {
+    function withdraw() public payable {
        uint balance = _balances[msg.sender];
        require(balance >0);
        require(msg.sender = owner, "caller is not the owner");
