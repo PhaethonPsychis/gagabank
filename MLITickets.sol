@@ -11,6 +11,7 @@ import "@openzeppelin/contracts/utils/Context.sol";
 //------------------------------------------------------------------------------------------------------------------------
 //Introduction
 /**
+ * The initiative is centered around Land in the metaverse, and in cyber-physical realities.
  * 1. This contract creates ERC-20 digital tickets that are required to participate in the Metaverse Lands Initiative
  * and ecosystem launch.
  * 2. Holders EMLCC aims to become the first self-organised autonomous conference based on incentives and reputation staking system
