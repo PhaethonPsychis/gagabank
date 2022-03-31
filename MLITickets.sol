@@ -6,12 +6,14 @@ pragma solidity ^0.8.7;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 import "@openzeppelin/contracts/utils/Context.sol";
-
+//------------------------------------------------------------------------------------------------------------------------
+//MLI Metaverse Lands Initiative
+//------------------------------------------------------------------------------------------------------------------------
 //Introduction
 /**
- * @community An ERC20 digital ticket for the EMLCC Ethereum Metaverse Lands Community Conference
+ * 1. This contract creates ERC-20 digital tickets that are required to participate in the Metaverse Lands Initiative
  * and ecosystem launch.
- * EMLCC aims to become the first self-organised autonomous conference based on incentives and reputation staking system
+ * 2. Holders EMLCC aims to become the first self-organised autonomous conference based on incentives and reputation staking system
  * $EMLCC tickets are used as votes, in a staking system to identify quality content.
  * $EMLCC are reddemable for a plot of virtual land. The cradle-to-cradle approach allows for maximum energy conservation
  *
