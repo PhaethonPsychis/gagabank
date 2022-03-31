@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/utils/Context.sol";
 //------------------------------------------------------------------------------------------------------------------------
 //Introduction
 /**
- * The initiative is about cities, architecture and urban systems in the metaverse, in the physical world, and in cyber-physical realities.
+ * The initiative is about cities in the metaverse, and the cyber-physical space.
  * The aim is to enable the organic formation from the ground up of an interdisciplinary community ecosystem focused on the Design, Research,
  * 
  * 1. This contract creates ERC-20 digital tickets that are required to participate in the Metaverse Lands Initiative
