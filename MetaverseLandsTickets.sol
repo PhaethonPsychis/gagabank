@@ -5,7 +5,7 @@ pragma solidity ^0.8.7;
 // import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
-import "@openzeppelin/contracts/utils/Context.sol";
+//import "@openzeppelin/contracts/utils/Context.sol";
 //------------------------------------------------------------------------------------------------------------------------
 //MLI Metaverse Lands Initiative
 //------------------------------------------------------------------------------------------------------------------------
@@ -483,7 +483,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 
 
 
-contract MLITickets is ERC20, Ownable {
+contract MetaverseLandsTickets is ERC20, Ownable {
     uint256 public constant minimumMintInterval = 365 days;
     uint256 public constant mintCap = 200; // 2%
     uint256 public nextMint; // Timestamp
