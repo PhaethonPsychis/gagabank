@@ -6,6 +6,8 @@ the three pillars
 
 ### The MetaCity
 
+# The MLV community-organized conference
+
 
 # The MLV Decentralized Work Group
 The purpose of the work group is to examine various potential applications of and policies for Metaverse Lands technology including, but not limited to, applications in Design and Development of virtual land assets, Urban Planning, building Cities from scratch , banking and other financial services, the real estate transaction process, health care, supply chain management, higher education, identity verification, and public recordkeeping to help attract and support employees and new businesses with a supportive ecosystem.
