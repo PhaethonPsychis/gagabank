@@ -1,12 +1,12 @@
-# Metaverse Lands Vision 
-the three pillars
+# Metaverse Lands Vision Community Conference
+
+# MLV three pillars
 ### The Hub
 
 ### The Powerbank
 
 ### The MetaCity
 
-# The MLV launching event & conference
 
 
 # The MLV Decentralized Work Group
