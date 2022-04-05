@@ -6,7 +6,7 @@ the three pillars
 
 ### The MetaCity
 
-# The MLV community-organized conference
+# The MLV launcing event
 
 
 # The MLV Decentralized Work Group
