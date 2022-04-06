@@ -1,5 +1,4 @@
-# Metaverse Lands Vision 
-Community Conference
+# Metaverse Lands Vision Community Conference
 The Metaverse Lands Vision Community Conference (MLVCC) is the launching global event focused on virtual land, cyber-urban Metaverse and digital crypto-economic zones technology and community. 
 Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
