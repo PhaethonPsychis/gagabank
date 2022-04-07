@@ -1,4 +1,7 @@
-# Metaverse Lands Vision Community Conference
+# Metaverse Lands Vision
+MLV is a Metaverse Collective for the design, research and development of virtual land systems, new cities, and cyber-urban developments connected to the metaverse. More particilarly
+
+MLV is an online 52-week long series of events, Architectural design competitions, and working groups summits  
 The Metaverse Lands Vision Community Conference (MLVCC) is the launching global event focused on virtual land, cyber-urban Metaverse and digital crypto-economic zones technology and community. 
 Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
