@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 
 
-contract MLERC20 is ERC20, Ownable {
+contract MLVTicket is ERC20, Ownable {
 
     uint256 public constant minimumMintInterval = 365 days;
     uint256 public constant mintCap = 200; // 2%
