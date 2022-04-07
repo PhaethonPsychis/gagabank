@@ -1,5 +1,9 @@
 # Metaverse Lands Initiative
-Cyber-Urban Metaverse is emerging as a new discourse creating new types of asset classes. The 'Cyber-Urban Metaverse' describes the extends the fields of Architecture and Urban planning into the virtual realm with the use of crypto-economic governance systems.
+Cyber-Urban Metaverse is emerging as a new discourse that is creating a new dimension of Cities and Urban development and a new era of cyber-urban life. It is a new paradigm that is creating new types of asset classes like digital land and virtual crypto addresses.
+
+The Cyber-Urban Metaverse is specifically created for the design, development and governance of urban environments.
+
+The Cyber-Urban Metaverse is a metaverse that is specifically designed for urban environments. It is aIn its final form is a virtual world that is populated by avatar representations of real people, and it is used as a platform for social interaction, commerce, and entertainment.
 
 This is a new set of rules about how cities and buildings can be designed, developed, managed and governed from within the Metaverse. It is a vision of the present time in which the physical and virtual worlds are seamlessly integrated, and people interact with each other and their surroundings in a completely participatory way.
 Metaverse is a bundle of technologies...
