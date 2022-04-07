@@ -1,7 +1,15 @@
-# Metaverse Lands Vision
-MLV is a Metaverse Collective for the design, research and development of virtual land systems, new cities, and cyber-urban developments connected to the metaverse. More particilarly
+# Metaverse Lands Initiative
+Cyber-Urban Metaverse is emerging as a new discourse that expands the fiedls of Architecture and Urban development and create new types of asset classes. The term 'Cyber-Urban Metaverse' is used to describe the convergence of the physical and digital realms in the built environment
 
-MLV is an online 52-week long series of events, Architectural design competitions, and working groups summits  
+This is a new set of rules about how cities and buildings can be designed, developed, managed and governed within the Metaverse protocols. It is a vision of the future in which the physical and virtual worlds are seamlessly integrated, and people interact with each other and their surroundings in a completely participatory way.
+Metaverse is a bundle of technologies...
+
+The MLI is established with the purpose to study, research and develop the discourse of cyber-urban Metaverse and potential applications, policies of Metaverse technologies in 
+
+More particularly MLI is focused to attract and support residents collectives, working groups, and technologies with a supportive ecosystems
+
+
+The  is an online 52-week long series of events, Urban design competitions, and working groups summits  
 The Metaverse Lands Vision Community Conference (MLVCC) is the launching global event focused on virtual land, cyber-urban Metaverse and digital crypto-economic zones technology and community. 
 Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
@@ -15,7 +23,7 @@ Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
 
 # The MLV Decentralized Work Group
-The purpose of the work group is to examine various potential applications of and policies for Metaverse Lands technology including, but not limited to, applications in Design and Development of virtual land assets, Urban Planning, building Cities from scratch , banking and other financial services, the real estate transaction process, health care, supply chain management, higher education, identity verification, and public recordkeeping to help attract and support employees and new businesses with a supportive ecosystem.
+
 
 MLV Protocol Development Governance
 
