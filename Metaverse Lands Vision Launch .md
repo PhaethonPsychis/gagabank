@@ -1,7 +1,7 @@
 # Metaverse Lands Initiative
-Cyber-Urban Metaverse is emerging as a new discourse that expands the fiedls of Architecture and Urban development and create new types of asset classes. The term 'Cyber-Urban Metaverse' is used to describe the convergence of the physical and digital realms in the built environment with crypto-economic governance systems.
+Cyber-Urban Metaverse is emerging as a new discourse creating new types of asset classes. The 'Cyber-Urban Metaverse' describes the extends the fields of Architecture and Urban planning into the virtual realm with the use of crypto-economic governance systems.
 
-This is a new set of rules about how cities and buildings can be designed, developed, managed and governed within the Metaverse protocols. It is a vision of the future in which the physical and virtual worlds are seamlessly integrated, and people interact with each other and their surroundings in a completely participatory way.
+This is a new set of rules about how cities and buildings can be designed, developed, managed and governed from within the Metaverse. It is a vision of the present time in which the physical and virtual worlds are seamlessly integrated, and people interact with each other and their surroundings in a completely participatory way.
 Metaverse is a bundle of technologies...
 
 The MLI is established with the purpose to study, research and develop the discourse of cyber-urban Metaverse and potential applications, policies of Metaverse technologies in 
@@ -14,11 +14,11 @@ The Metaverse Lands Vision Community Conference (MLVCC) is the launching global 
 Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
 # MLV three pillars
-### The Hub
+### The Powerbank: Plug and Play technologies and applications
 
-### The Powerbank
+### The Crypto Regulation: Commercial Laws and Judisciary systems 
 
-### The MetaCity
+### Building The MetaCity. Community Collectives and Public partnerships for urban development, Governance and Public Utilities Ownership
 
 
 
