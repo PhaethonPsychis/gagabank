@@ -1,4 +1,4 @@
-# Cyber-Urban Metaverse Vision
+# Cyber-Urban Metaverse
 Cyber-Urban Metaverse is emerging as a new discourse that is creating a new dimension of Cities and Urban development and a new era of cyber-urban life. It is a new paradigm that is creating new types of asset classes like digital land and virtual crypto addresses.
 
 The Cyber-Urban Metaverse is specifically created for the design, development and governance of urban environments.
