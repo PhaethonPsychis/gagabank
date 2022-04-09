@@ -1,4 +1,9 @@
-Cyber-Urban Metaverse
+# Cyber-Urban Metaverse
+
+The Cyber-Urban Metaverse is a metaverse that is specifically designed for urban environments that are purely virtual or cyber-physical.
+As a cyber hub, it is a virtual world that is populated by avatar representations of real people. A Virtual Lands registry system and it is used as a platform for social interaction, commerce, and entertainment. Avatars  and assets are cross trade beween worlds 
+
+### Now lets 
 Cyber-Urban Metaverse is emerging as a new discourse that is creating a new dimension of Cities and Urban development and a new era of cyber-urban life. It is a new paradigm that is creating new types of asset classes like digital land and virtual crypto addresses.
 
 The Cyber-Urban Metaverse is specifically created for the design, development and governance of urban environments.
