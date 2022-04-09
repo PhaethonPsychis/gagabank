@@ -17,5 +17,6 @@ The MLV tokens ascommunity rewards create a decentralized market for talent that
 ### The Metaverse Lands 
 A Virtual Land registry system is under development to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
-The cyber-urban metaverse offer a better vision for how societies should unlock the potential of cities using technology. The meta-citizen avatar as a powerful participatory entity. We we aim to catalyze a conversation with architects, coders, citizens and policymakers about cyber-urban cities, that create greater economic prosperity, participatory, and accountable governance build on open source technologies
+# Its time to build cities  
+The cyber-urban metaverse offer a better vision for how societies should develop cities to unlock greater economic prosperity for all. Defining that vision is a task too large and too important for any organization to tackle on its own. Architects, Policymakers, innovators, companies, universities, civil society organizations, and citizens all need to collaborate in this work. But it’s time to begin. It’s time to build.
 
