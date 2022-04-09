@@ -5,49 +5,19 @@ The cyber-urban metaverse Vision is specifically established to integrate the ge
 A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
 The cyber-urban metaverse emerges as a new paradigm that is creating new types of asset classes like virtual land, and crypto domains, while enabling participation in cyber-urban collectives and trades accross realities.
 
-# The Building the Vision Initiative
-The cyber-urban metaverse starts as a web3 platform populated by avatar representations of real people and it is used for advancing the discourse for cyber-urban worlds, networking and capacity building. 
-
-
+# Joint development with participatory governance
+The metaverse starts as a web3 platform populated by avatar representations of real people. Their purpose is to contribute to the joint development of the vision, and provide a highly efficient, auditable, form of governance. 
 ### The MLV token
-A digital ticket enables members to participate in building the vision and vote on issues 
-  
+The MLV community token enables holders to contribute in many ways. 
+The MLV gives a voting right enabling community memebrs to express their views, vote for what they believe and excersize control. 
+MLV tokens are redeemable for metaverse land. You may exchange your MLV tokens to buy virtual land at a desirable address or a meta-domain name. MLV tokens can also be used to redeem future services, such as a participation certificate.
+MLV tokens represent community resources that can be shared accross the network and is accepted by all participating services and products.
+The MLV tokens ascommunity rewards create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.
 
-### The Metaverse Lands
-A Virtual Land registry system and it is used as a platform for social interaction, commerce, and entertainment. Assets are cross trade beween worlds 
-
- 
-The MLI is established with the purpose to study, research and develop the discourse of cyber-urban Metaverse and potential applications, policies of Metaverse technologies in
-
-
+### The Metaverse Lands 
+A Virtual Land registry system is under development to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
 
 
-How the MLV token is used
-To participate in the community you need to own at least one token.
 
-Voting The token represent voting rights in community matters.
 
-Reedemable Tokens will be redeemable to #Lands at a specific address
-
-The most obvious use of tokens is as digital private currencies. However, this is only one possible use. Tokens can be programmed to serve many different functions, often overlapping. For example, a token can simultaneously convey a voting right, an access right, and ownership of a resource. As the following list shows, currency is just the first "app":
-
-MLV tokens are not Currency MLV tokens are not "directly exchangeable for money". A token can serve as a form of currency, with a value determined through private trade.
-
-Resource A token can represent a resource earned or produced in a sharing economy or resource-sharing environment; for example, a storage or CPU token representing resources that can be shared over a network.
-
-Asset A token can represent ownership of an intrinsic or extrinsic, tangible or intangible asset; for example, gold, real estate, a car, oil, energy, MMOG items, etc.
-
-Access A token can represent access rights and grant access to a digital or physical property, such as a discussion forum, an exclusive website, a hotel room, or a rental car.
-
-Equity A token can represent shareholder equity in a digital organization (e.g., a DAO) or legal entity (e.g., a corporation).
-
-Voting A token can represent voting rights in a digital or legal system.
-
-Collectible A token can represent a digital collectible (e.g., CryptoPunks) or physical collectible (e.g., a painting).
-
-Identity A token can represent a digital identity (e.g., avatar) or legal identity (e.g., national ID).
-
-Attestation A token can represent a certification or attestation of fact by some authority or by a decentralized reputation system (e.g., marriage record, birth certificate, college degree).
-
-Utility A token can be used to access or pay for a service.
