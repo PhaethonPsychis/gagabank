@@ -1,30 +1,27 @@
-# Cyber-Urban Metaverse
+# A Metaverse to connect the virtual and geographical space
+The cyber-urban metaverse Vision is specifically established to integrate the geographical space and the virtual realm into a metaverse. Its purpose is to create a new dimension of Cities and Urban development and a new era of cyber-urban life.
 
-The Cyber-Urban Metaverse is a metaverse that is specifically designed for urban environments that are purely virtual or cyber-physical.
-As a cyber hub, it is a virtual world that is populated by avatar representations of real people. A Virtual Lands registry system and it is used as a platform for social interaction, commerce, and entertainment. Avatars  and assets are cross trade beween worlds 
+# The Cyber-Urban Metaverse
+A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
+The cyber-urban metaverse emerges as a new paradigm that is creating new types of asset classes like virtual land, and crypto domains, while enabling participation in cyber-urban collectives and trades accross realities.
 
-### Now lets 
-Cyber-Urban Metaverse is emerging as a new discourse that is creating a new dimension of Cities and Urban development and a new era of cyber-urban life. It is a new paradigm that is creating new types of asset classes like digital land and virtual crypto addresses.
+# The Initiative
+The cyber-urban metaverse starts as a web3 platform populated by avatar representations of real people and it is used for advancing the discourse for cyber-urban worlds, networking and capacity building. 
 
-The Cyber-Urban Metaverse is specifically created for the design, development and governance of urban environments.
 
-The Cyber-Urban Metaverse is a metaverse that is specifically designed for urban environments. It is aIn its final form is a virtual world that is populated by avatar representations of real people, and it is used as a platform for social interaction, commerce, and entertainment.
+### The MLV token
+A digital ticket enables members to participate in building the vision and vote on issues 
+  
 
-This is a new set of rules about how cities and buildings can be designed, developed, managed and governed from within the Metaverse. It is a vision of the present time in which the physical and virtual worlds are seamlessly integrated, and people interact with each other and their surroundings in a completely participatory way. Metaverse is a bundle of technologies...
+### The Metaverse Lands
+A Virtual Land registry system and it is used as a platform for social interaction, commerce, and entertainment. Assets are cross trade beween worlds 
 
+ 
 The MLI is established with the purpose to study, research and develop the discourse of cyber-urban Metaverse and potential applications, policies of Metaverse technologies in
 
-More particularly MLI is focused to attract and support residents collectives, working groups, and technologies with a supportive ecosystems
 
-The is an online 52-week long series of events, Urban design competitions, and working groups summits
-The Metaverse Lands Vision Community Conference (MLVCC) is the launching global event focused on virtual land, cyber-urban Metaverse and digital crypto-economic zones technology and community. Metaverse is build on crypto and virtual land has emerged as a new asset class.
 
-MLV three pillars
-The Powerbank: Plug and Play technologies and applications
-The Crypto Regulation: Commercial Laws and Judisciary systems
-Building The MetaCity. Community Collectives and Public partnerships for urban development, Governance and Public Utilities Ownership
-The MLV Decentralized Work Group
-MLV Protocol Development Governance
+
 
 How the MLV token is used
 To participate in the community you need to own at least one token.
