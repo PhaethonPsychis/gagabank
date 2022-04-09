@@ -5,7 +5,7 @@ The cyber-urban metaverse Vision is specifically established to integrate the ge
 A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
 The cyber-urban metaverse emerges as a new paradigm that is creating new types of asset classes like virtual land, and crypto domains, while enabling participation in cyber-urban collectives and trades accross realities.
 
-# The Initiative
+# The Building the Vision Initiative
 The cyber-urban metaverse starts as a web3 platform populated by avatar representations of real people and it is used for advancing the discourse for cyber-urban worlds, networking and capacity building. 
 
 
