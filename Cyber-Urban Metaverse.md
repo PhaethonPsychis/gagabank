@@ -1,4 +1,4 @@
-# A Metaverse to connect the virtual and geographical space
+# A Metaverse to integrate the digital and material space
 The cyber-urban metaverse Vision is specifically established to integrate the geographical space and the virtual realm into a metaverse. Its purpose is to create a new dimension of Cities and Urban development and a new era of cyber-urban life.
 
 # The Cyber-Urban Metaverse
@@ -15,8 +15,9 @@ MLV tokens represent community resources that can be shared accross the network 
 The MLV tokens ascommunity rewards create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.
 
 ### The Metaverse Lands 
-A Virtual Land registry system is under development to serve a community building platform facilitating social interaction, commerce, and entertainment.
+A Virtual Land registry system to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
-# Its time to build cities  
-The cyber-urban metaverse offer a better vision for how societies should develop cities to unlock greater economic prosperity for all. Defining that vision is a task too large and too important for any organization to tackle on its own. Architects, Policymakers, innovators, companies, universities, civil society organizations, and citizens all need to collaborate in this work. But it’s time to begin. It’s time to build.
+# Its time to build cyber-urban cities  
+The cyber-urban metaverse offer a better vision for how societies should develop cities to unlock greater economic prosperity and collective participation . Building that vision is a task too large and too important for any organization to tackle on its own. Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens all need to collaborate in this work. 
+But it’s time to begin. It’s time to build.
 
