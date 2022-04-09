@@ -8,19 +8,17 @@ import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 
 contract MLVERC20 is ERC20, Ownable {
 
-    uint256 public constant minimumMintInterval = 365 days;
+    uint256 public constant minimumMintInterval = 60 seconds;
     uint256 public constant mintCap = 200; // 2%
 
     uint256 public nextMint; // Timestamp
-
-
 
 
     constructor()
 
         ERC20("Metaverse Lands Vision", "MLV") {
         _mint(msg.sender, 500000);
-        _mint(address(this), 3000000);
+        _mint(address(this), 2000000);
         nextMint = block.timestamp + minimumMintInterval;
     }
 
@@ -28,9 +26,9 @@ contract MLVERC20 is ERC20, Ownable {
 		    return 0;        
     }
 
-    function sweep(address dest) external onlyOwner {
-        
-        _transfer(address(this), dest, balanceOf(address(this)));
+    //Owner transfer tickets from this contract to fill up the vending machine
+    function transferFromContract(address dest, uint256 amount) external onlyOwner {
+        _transfer(address(this), dest, amount);
     }
         
     /**
@@ -40,8 +38,8 @@ contract MLVERC20 is ERC20, Ownable {
      * @param amount The quantity of tokens to mint.
      */
     function mint(address dest, uint256 amount) external onlyOwner {
-        require(amount <= (totalSupply() * mintCap) / 10000, "ENS: Mint exceeds maximum amount");
-        require(block.timestamp >= nextMint, "ENS: Cannot mint yet");
+        require(amount <= (totalSupply() * mintCap) / 10000, "MLV: Mint exceeds maximum amount");
+        require(block.timestamp >= nextMint, "MLV: Cannot mint yet");
 
         nextMint = block.timestamp + minimumMintInterval;
         _mint(dest, amount);
