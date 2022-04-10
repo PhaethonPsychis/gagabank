@@ -1,14 +1,19 @@
-# A Metaverse to integrate the digital space and  urban space
-The cyber-urban metaverse is a metaverse specifically designed as a new model for developing cities that integrate the cyber-web3 space and the contemporary urban realities and create a new era of cyber-urban life.
+# A Metaverse to connect the cyber urban space
+Cyber-urban metaverse is a metaverse populated by avatar representations of real people that contribute to the joint development of a new city, provide a body that oversee the development and operations, participate in the governance and get a share from the revenues generated. The cu metaverse is a collective owned and governed by the citizens it serves.
 
-.a new model of Cities and Urban development that integrate the virtual realm of web3 space  
+cyber-urban metaverse has a one powerful purpose
+Use the metaverse to fund, design, develop, operate and govern cities. Cities can be build in the virtual realm or to a physical geographical location
+
+The Cyber-Urban Metaverse is a metaverse that is specifically designed to create a new era of cyber-urban life. It is also a group of technologies to create new urban environments that co exist on the cyber space and on a physical geographical location. 
+In its final form it is used as a "platform" for managing the public realm in a virtual world and in the city we live as humans
+ 
 
 # The Cyber-Urban Metaverse
 A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
 The cyber-urban metaverse emerges as a new paradigm that is creating new types of asset classes like virtual land, and crypto domains, while enabling participation in cyber-urban collectives and trades accross realities.
 
 # Joint development with participatory governance
-The metaverse starts as a web3 platform populated by avatar representations of real people. Their purpose is to contribute to the joint development of the vision, and provide a highly efficient, auditable, form of governance. We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
+We initiate a web3 platform populated by avatar representations of real people. Their purpose is to contribute to the joint development of the vision, and provide a highly efficient, auditable, form of governance. We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
 ### The MLV token
 The MLV community token enables holders to contribute in many ways. 
 The MLV gives a voting right enabling community memebrs to express their views, vote for what they believe and excersize control. 
