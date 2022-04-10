@@ -1,7 +1,16 @@
-# A Metaverse to create the cyber urban city
-Cyber-urban metaverse is a metaverse populated by avatar representations of real people that contribute to the joint development of a new city, provide a body that oversee the development and operations, participate in the governance and get a share from the revenues generated. The cu metaverse is a collective owned and governed by the citizens it serves.
+# The cyber-urban Metaverse
+#### Introduction
+The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. The metaverse populated by avatar representations of real people that share ownership and unlock the full potential of cities.
+#### What is the Cyber-urban metaverse?
+A metaverse that integrates a virtual world on cyberspace and a city at a physical geographical location into a single and consistent system 
 
-### cyber-urban metaverse has a one powerful purpose
+### What is the purpose of curban?
+The purpose of curban is to create virtual territories and urban developments that run on the same metaverse technology systems.
+
+populated by avatar representations of real people that contribute to the joint development of a new city, provide a body that oversee the development and operations, participate in the governance and get a share from the revenues generated. The cu metaverse is a collective owned and governed by the citizens it serves.
+
+### What is the purpose of curban?
+
 Use the metaverse to fund, design, develop, operate and govern cities. Cities can be build in the virtual realm or to a physical geographical location
 
 The Cyber-Urban Metaverse is a metaverse that is specifically designed to create a new era of cyber-urban life. It is also a group of technologies to create new urban environments that co exist on the cyber space and on a physical geographical location. 
@@ -10,7 +19,7 @@ In its final form it is used as a "platform" for managing the public realm in a 
 
 
 
-# The Cyber-Urban Metaverse
+# The Cyber-Urban City
 A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
 The cyber-urban metaverse emerges as a new paradigm that is creating new types of asset classes like virtual land, and crypto domains, while enabling participation in cyber-urban collectives and trades accross realities.
 
