@@ -1,12 +1,14 @@
 # A Metaverse to create the cyber urban city
 Cyber-urban metaverse is a metaverse populated by avatar representations of real people that contribute to the joint development of a new city, provide a body that oversee the development and operations, participate in the governance and get a share from the revenues generated. The cu metaverse is a collective owned and governed by the citizens it serves.
 
-cyber-urban metaverse has a one powerful purpose
+### cyber-urban metaverse has a one powerful purpose
 Use the metaverse to fund, design, develop, operate and govern cities. Cities can be build in the virtual realm or to a physical geographical location
 
 The Cyber-Urban Metaverse is a metaverse that is specifically designed to create a new era of cyber-urban life. It is also a group of technologies to create new urban environments that co exist on the cyber space and on a physical geographical location. 
 In its final form it is used as a "platform" for managing the public realm in a virtual world and in the city we live as humans
  
+Cyber-Urban Metaverse is emerging as a new discourse that is creating a new dimension of Cities and Urban development and a new era of cyber-urban life. It is a new paradigm that is creating new types of asset classes like digital land and virtual crypto addresses.
+
 
 # The Cyber-Urban Metaverse
 A possible future form to consider is a large internet community of people building at some geopgraphical location a new city where the infrastrucutre and energy utility corporations are managed as metaverse collectives and citizens get a share of city's revenues.
