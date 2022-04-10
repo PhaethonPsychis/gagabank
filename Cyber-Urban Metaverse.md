@@ -1,8 +1,8 @@
 # The cyber-urban Metaverse
 #### Introduction
-The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. The metaverse populated by avatar representations of real people that share ownership and unlock the full potential of cities.
+The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. The metaverse is populated by avatar representations of real people that share ownership and unlock the full potential of societies.
 #### What is the Cyber-urban metaverse?
-A metaverse that integrates a virtual world on cyberspace and a city at a physical geographical location into a single and consistent system 
+A metaverse specifically designed to integrate a virtual world that exists on cyberspace and a city at a physical geographical location into a single and consistent system 
 
 ### What is the purpose of curban?
 The purpose of curban is to create virtual territories and urban developments that run on the same metaverse technology systems.
