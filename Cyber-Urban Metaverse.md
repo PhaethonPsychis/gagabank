@@ -16,7 +16,7 @@ To create equitable economic growth and participatory governance systems
 A Metaverse specifically created to fund design, develop, and operate urban developments in a policy framework that promotes new kinds of cooperation
 and governance.
 
-# Joint development of the curb Metaverse
+# Joint development
 We initiate a joint working program to build the metaverse for cyber-urban cities. We will use web3 tools to organize the community and help them create capacity.
 
 ### The ecosystem of our project
