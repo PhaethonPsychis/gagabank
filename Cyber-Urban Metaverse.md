@@ -1,7 +1,7 @@
 # ⚡️ Cyber Urban Land: A Metaverse
-The Cyber Urban Land Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br> 
+The Cyber Urban Land Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><br>
 
-This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the geographical urban space that allow people to coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br>
+This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the geographical urban space that allow people to coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
 In its final form this metaverse is populated by avatar representations of real people that share ownership of the cyber-physical space<br>
 
 #### a new era of cyber-urban life
