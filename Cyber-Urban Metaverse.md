@@ -8,9 +8,10 @@ In its final form this metaverse is populated by avatar representations of real 
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
 
 # 💎 The cyber-urban city
-Think of the cyber urban city as a decentralized platform where any kind of organization public, private, or nonprofit can be organized as a metaverse cooperative, collective or credit union. 
-The cyber urban city exists both in the real world and in cyberspace, as a single and consistent system, and people who live in this city participate in both worlds using their avatars.
-Think of a decentralised collective of people that contribute to the joint development of a city using the metaverse as a platform for governance and coordinatiion. Think of the metaverse as a platform where any kind of organization public, private, or nonprofit can be organized as a native metaverse cooperative. The metaverse is used as a space for community participation and governance.
+Think of the city as a decentralized network where any kind of organization public, private, or nonprofit can be established as a cooperative, collective or credit union on the metaverse. Citizens interact with digital organizations and participate in governance and socio-economic activities through their avatar representations that use the metaverse<br><br> 
+
+#### What is the purpose of this Metaverse?
+This metaverse enables a decentralised collective of people contribute to the joint development of a city using the metaverse as a platform for governance and coordinatiion. 
 
 
 #### What is the cyber-urban metaverse?
@@ -18,7 +19,7 @@ This metaverse is where the strategic policy framework is deployed and where con
 #### What is the purpose of cyber-urban cities?
 To create equitable economic growth and participatory governance systems
 
-#### What is the purpose of curban Metaverse?
+
 A Metaverse specifically created to fund design, develop, and operate urban developments in a policy framework that promotes new kinds of cooperation
 and governance.
 
