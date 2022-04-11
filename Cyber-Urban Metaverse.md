@@ -17,15 +17,19 @@ A Metaverse specifically created to fund design, develop, and operate urban deve
 and governance.
 
 # Joint development of the Metaverse vision with participatory governance
-We initiate a web3 platform populated by avatar representations of real people. Their purpose is to contribute to the joint development of the vision, and provide a highly efficient, auditable, form of governance. We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
+We initiate a joint working program to build the metaverse for cyber-urban cities. We will use web3 tools to organize the community and help them create capacity.
+We start with the deployment of a web3 platform populated by avatar representations of real people. Their purpose is to contribute to the joint development of the vision, and provide a highly efficient, auditable, form of governance. 
+We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
+
 ### The MLV token
 The MLV community token enables holders to contribute in many ways. 
 The MLV gives a voting right enabling community memebrs to express their views, vote for what they believe and excersize control. 
 MLV tokens are redeemable for metaverse land. You may exchange your MLV tokens to buy virtual land at a desirable address or a meta-domain name. MLV tokens can also be used to redeem future services, such as a participation certificate.
 MLV tokens represent community resources that can be shared accross the network and is accepted by all participating services and products.
 The MLV tokens ascommunity rewards create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.
+### Metaverse address for your avatars
 
-### The Metaverse Lands 
+### Metaverse Lands Registry 
 A Virtual Land registry system to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
 # Its time to build cyber-urban realities  
