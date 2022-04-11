@@ -1,4 +1,4 @@
-# ⚡️ The cyber-urban Metaverse
+# ⚡️ Cyber Urban Land: A Metaverse
 The cyber-urban metaverse is a group of technologies powerful new vision develop and operate cities in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
 #### Introduction
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. In its final form this metaverse is populated by avatar representations of real people that share ownership of the cyber-physical space
