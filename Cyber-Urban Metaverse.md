@@ -4,8 +4,8 @@ The purpose of the cyber-urban metaverse is to enable societies to develop and o
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. In its final form this metaverse is populated by avatar representations of real people that share ownership and unlock the full potential of societies.
 
 #### What is the cyber-urban city?
-Think of the cyber-urban city as a blockchain version of a cooperative, a collective of people that contribute to the joint development of a city using the metaverse as a platform for community governance of any kind of organization public, private, or nonprofit. 
-It is a city that exists both in the real world and in cyberspace, as a single and consistent system, and people who live in this city participate in both worlds using their avatars.
+Think of the cyber-urban city as a collective of people that contribute to the joint development of a city through the metaverse. Think of the metaverse as a platform where any kind of organization public, private, or nonprofit can be organized as a native metaverse cooperative. The metaverse is used as a space for community participation and governance.
+The cyber urban city exists both in the real world and in cyberspace, as a single and consistent system, and people who live in this city participate in both worlds using their avatars.
 
 #### What is the cyber-urban metaverse?
 This metaverse is where the strategic policy framework is deployed and where constituents through their avatars live work, and play
