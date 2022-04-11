@@ -6,7 +6,13 @@ The cyber-urban Metaverse is where and how contemporary urban people create a ne
 #### What is the cyber-urban city?
 Think of the cyber-urban city as a blockchain version of a cooperative, a collective of people that contribute to the joint development of a city using the metaverse as a platform for community governance of any kind of organization public, private, or nonprofit. 
 It is a city that exists both in the real world and in cyberspace, as a single and consistent system, and people who live in this city participate in both worlds using their avatars.
-### What is the purpose of curban?
+
+#### What is the cyber-urban metaverse?
+This metaverse is where the strategic policy framework is deployed and where constituents through their avatars live work, and play
+#### What is the purpose of cyber-urban cities?
+.....
+
+#### What is the purpose of curban Metaverse?
 A Metaverse specifically created to fund design, develop, and operate urban developments in a policy framework that promotes new kinds of cooperation
 and governance.
 
