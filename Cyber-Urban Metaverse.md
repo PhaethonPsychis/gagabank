@@ -1,11 +1,17 @@
 # ⚡️ Cyber Urban Land: A Metaverse
-The cyber-urban metaverse is a group of technologies powerful new vision develop and operate cities in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
-#### Introduction
-The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. In its final form this metaverse is populated by avatar representations of real people that share ownership of the cyber-physical space
+The Cyber Urban Land Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br> 
 
-# 💎 The cyber-urban city?
-Think of the cyber-urban city as a collective of people that contribute to the joint development of a city through the metaverse. Think of the metaverse as a platform where any kind of organization public, private, or nonprofit can be organized as a native metaverse cooperative. The metaverse is used as a space for community participation and governance.
+This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the geographical urban space that allow people to coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br>
+In its final form this metaverse is populated by avatar representations of real people that share ownership of the cyber-physical space<br>
+
+#### a new era of cyber-urban life
+The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
+
+# 💎 The cyber-urban city
+Think of the cyber urban city as a decentralized platform where any kind of organization public, private, or nonprofit can be organized as a metaverse cooperative, collective or credit union. 
 The cyber urban city exists both in the real world and in cyberspace, as a single and consistent system, and people who live in this city participate in both worlds using their avatars.
+Think of a decentralised collective of people that contribute to the joint development of a city using the metaverse as a platform for governance and coordinatiion. Think of the metaverse as a platform where any kind of organization public, private, or nonprofit can be organized as a native metaverse cooperative. The metaverse is used as a space for community participation and governance.
+
 
 #### What is the cyber-urban metaverse?
 This metaverse is where the strategic policy framework is deployed and where constituents through their avatars live work, and play
