@@ -1,5 +1,5 @@
 # The cyber-urban Metaverse
-The cyber-urban metaverse offer a better vision for how societies develop and operate cities to unlock our capacity to discover and implement new ideas and new rules, create greater equitable economic growth and participatory governance. 
+The cyber-urban metaverse offer a better vision for how societies develop and operate cities to unlock our capacity to discover and implement new ideas and new rules, create greater equitable economic growth and participatory governance systems. 
 #### Introduction
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life. In its final form this metaverse is populated by avatar representations of real people that share ownership and unlock the full potential of societies.
 
