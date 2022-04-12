@@ -1,4 +1,4 @@
-# ⚡️ Cyber Urban Metaverse
+# ⚡️ CyberUrban Metaverse
 The cyber urban metaverse is a metaverse specifically designed to create a city that exists both in the physical geographical world and in cyberspace, as a single and consistent metaverse. People who live in this city participate in both worlds using their avatars<br>
 
 This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the geographical urban space that allow people to coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
