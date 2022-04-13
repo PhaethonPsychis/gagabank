@@ -42,14 +42,14 @@ The MLV tokens create a decentralized market for talent that enables people anyw
 MLV tokens can also be used to redeem future services, such as a participation certificate.<br>
 
 
-# 📬 Name and addresses system for avatars
+# 📬 Name and addresses registry
 
-#🏙 Metaverse Lands registry 
+# 🏙 Metaverse Lands  
 A Virtual Land registry system to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
 
 
-# FAQ
+# ❓ FAQ
 By operating as a decentralized platform, this metaverse, deploys participatory systems for decentralized governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city.
 
 that allow people to take ownership of the cyberurban and part
