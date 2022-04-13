@@ -1,4 +1,4 @@
-# ⚡️ A Metaverse for the CyberUrban City
+# ⚡️ A Metaverse for the cyberurban city
 This metaverse is specifically created for the design of cities that exists both in a physical geographical location as urban environments, and in cyberspace. People who live in this metaverse participate in both worlds using their avatars<br>
 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the urban environment<br>
@@ -7,7 +7,7 @@ The metaverse is used as a platform for decentralised participatory systems to e
 
 In its final form this metaverse is populated by avatar representations of real people that share ownership of their city and the cyber space <br>
 
-# 💎 A new era for cyber-urban life
+# 💎 A new era for cyberurban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 
 # 🛠 A blueprint for Urbanization
@@ -30,19 +30,20 @@ We provide an incentives system and some basic tools to allow the community form
 
 # Participate. Use the $CUR digital vote . Innovative participation and reward system
 The MLV community token enables holders to contribute in many ways<br>
-The MLV gives a voting right to community members to express their views, vote for what they believe, and exercise control.<br> 
-MLV tokens are redeemable for metaverse land. You may exchange your MLV tokens to buy virtual land at a desirable address or a meta-domain name.<br>
-MLV tokens can also be used to redeem future services, such as a participation certificate.<br>
-MLV tokens represent community resources to share across the network where all participating services and products accept<br>
+📢 Innovative participation.The MLV gives a voting right to community members to express their views, vote for what they believe, and exercise control.<br> 
+💰 MLV tokens represent community resources to share across the network where all participating services and products accept<br>
 The MLV tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
-### Name and addresses system for avatars
 
-### Metaverse Lands registry 
+🏗 MLV tokens are redeemable for metaverse land. You may exchange your MLV tokens to buy virtual land at a desirable address or a meta-domain name.<br>
+MLV tokens can also be used to redeem future services, such as a participation certificate.<br>
+
+
+# Name and addresses system for avatars
+
+# Metaverse Lands registry 
 A Virtual Land registry system to serve a community building platform facilitating social interaction, commerce, and entertainment.
 
-# Its time to build cyber-urban realities  
-The CyberUrban metaverse offer a better vision for how societies should develop and operate cities to unlock greater economic prosperity and collective participation . Building that vision is a task too large and too important for any organization to tackle on its own. Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens all need to collaborate in this work. 
-But it’s time to begin. It’s time to build.
+
 
 # FAQ
 By operating as a decentralized platform, this metaverse, deploys participatory systems for decentralized governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city.
@@ -52,5 +53,5 @@ that allow people to take ownership of the cyberurban and part
 
 coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
 
-####  the metaverse technologies?
+####  What kind of technology is the metaverse?
 The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><br>
