@@ -18,7 +18,7 @@ The meta city cooperative is governed by communities from the metaverse and can 
 Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
 
 #### What is the purpose of the CyberUrban City?
-To lift millions of people out of poverty, create equitable economic growth, new kinds of cooperation, and participatory governance systems 
+The purpose of the CyberUrban City is to lift millions of people out of poverty, create equitable economic growth, and develop new forms of cooperation and participatory governance.
 
 # 👫 Joint development  👫👫👫👫
 The CyberUrban metaverse offer a better vision for how societies should develop cities. Building that vision is a task too large and too important for any organization to tackle on its own.
