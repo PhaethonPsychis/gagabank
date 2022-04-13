@@ -24,7 +24,7 @@ The purpose of the CyberUrban City is to lift millions of people out of poverty,
 The CyberUrban metaverse offer a better vision for how societies should develop cities. Building that vision is a task too large and too important for any organization to tackle on its own.
 We initiate a joint working program and we invite Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to contribute. The code is and will always be, opensource for everyone to use, share or modify<br><br>
 We will fix the working program as a community through online discusion and voting using metaverse native tools. Engaging in this procedures will help all build capacity and start experiencing the metaverse<br>
-This is a live document and we will update it as community members join<br>
+This is a living document and we will update it as the community grows and the project evolves.<br>
 
 But it’s time to begin. It’s time to build.
 
