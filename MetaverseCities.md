@@ -1,8 +1,10 @@
 # ⚡️ A Metaverse for the CyberUrban City
 This metaverse is specifically designed for the development of cities that exists both in a physical geographical location as urban environments, and in cyberspace. People who live in this metaverse participate in both worlds using their avatars<br>
 
-This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the urban space<br>
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the urban environment<br>
+
 The metaverse is used as a platform for participatory governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city<br>
+
 In its final form this metaverse is populated by avatar representations of real people that share ownership of the cuberurban space <br>
 
 # 💎 A new era for cyber-urban life
