@@ -7,7 +7,7 @@ In its final form this metaverse is populated by avatar representations of real 
 # 💎 A new era for cyber-urban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
 
-#🛠 A blueprint for Urbanization
+# 🛠 A blueprint for Urbanization
 Think of the city as a decentralized network where any kind of organization public, private, or nonprofit can be established as a cooperative, collective or credit union on the metaverse. Citizens interact with digital organizations and participate in governance and socio-economic activities through their avatar representations that use the metaverse<br><br> 
 
 
