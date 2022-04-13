@@ -1,8 +1,9 @@
-# ⚡️ Metaverse City
-The CyberUrban metaverse is specifically created for cities that exists both in the physical geographical world and in cyberspace, as a single and consistent metaverse. People who live in this city participate in both worlds using their avatars<br>
+# ⚡️ A Metaverse for the CyberUrban City
+This metaverse is specifically designed for the development of cities that exists both in a physical geographical location as urban environments, and in cyberspace. People who live in this metaverse participate in both worlds using their avatars<br>
 
-This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the geographical urban space that allow people to coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
-In its final form this metaverse is populated by avatar representations of real people that share ownership of the cyber-physical space<br>
+This innovation, still very early in its evolution, serves as the basis for new forms of cities arising from the interaction of the virtual world and the urban space<br>
+The metaverse is used as a platform for participatory governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city<br>
+In its final form this metaverse is populated by avatar representations of real people that share ownership of the cuberurban space <br>
 
 # 💎 A new era for cyber-urban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks our capacity to discover and implement new ideas and new rules.<br>
@@ -55,3 +56,10 @@ A Virtual Land registry system to serve a community building platform facilitati
 The cyber-urban metaverse offer a better vision for how societies should develop and operate cities to unlock greater economic prosperity and collective participation . Building that vision is a task too large and too important for any organization to tackle on its own. Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens all need to collaborate in this work. 
 But it’s time to begin. It’s time to build.
 
+# FAQ
+By operating as a decentralized platform, this metaverse, deploys participatory systems for decentralized governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city.
+
+that allow people to take ownership of the cyberurban and part
+
+
+coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
