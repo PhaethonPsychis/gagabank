@@ -7,7 +7,7 @@ The fractionalisation of the city is a new paradigm that is creating new types o
 The new cyber-urban city is a metaverse, that enables 
 
 
-# 💎 A new era for cyberurban life
+# 💎 A new era for cyber-urban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 
 # 🛠 Building and running cities: A blueprint for Urbanization
