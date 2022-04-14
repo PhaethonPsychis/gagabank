@@ -12,7 +12,7 @@ The cyber-urban Metaverse is where and how contemporary urban people create a ne
 But it’s time to begin. It’s time to build!
 
 # 🛠 Building and running cities: A blueprint for Urbanization
-#### Collective development. Fractional ownership of the city. Revenue sharing among citizens!
+#### Collective development of a city. Fractional ownership. Revenue sharing among citizens!
 Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br> 
 Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
 
