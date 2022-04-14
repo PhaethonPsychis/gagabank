@@ -24,22 +24,23 @@ Citizens interact with digital organizations through their avatar representation
 The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
+We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
+👉This working group will study the following areas:
+This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes
+*✨ Digital Crypto Economic Zones as a plug and play platform
+*✨ Digital Crypto Economic Zones and Private Urbanization
+* ✨Native Metaverse Cooperatives. Design EIP
+* ✨Fractional Ownership of cities. A new class of assets. Multi dimensional assets
+* ✨The cyber city needs a Network of rollups.
+* ✨Turning Informal cities into powerful economies
+* ✨The cyber city as a metaverse<br>
 
-This working group will study the following areas:
-
-* Digital Crypto Economic Zones as a plug and play platform
-* Digital Crypto Economic Zones and Private Urbanization
-* Native Metaverse Cooperatives. Design EIP
-* Fractional Ownership of cities. A new class of assets. Multi dimensional assets
-* The cyber city needs a Network of rollups.
-* Turning Informal cities into powerful economies
-* The cyber city as a metaverse 
-The group will also organize a decentralized competition in the following context:
+### 🌐 The group will also organize a decentralized competition in the following context:
 Design a unique transformative economic and social reform blueprint that is opening [insert region] up to the world. 
 
-The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.
-This is an outline of our intentions. It is up to the community to continue these projects 
-and to build on the work that has been done.
+### prototype of a virtual city<br>
+The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.<br>
+This is an outline of our intentions. It is up to the community to continue these projects and to build on the work that has been done.
 
 # 🚀 Self organising working group. Incentives system and community coordination
  We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
