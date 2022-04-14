@@ -27,12 +27,12 @@ We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policym
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
 ### 👉This working group will study the following areas:<br>
 This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes<br>
-*✨ Digital Crypto Economic Zones as a plug and play platform
-*✨ Digital Crypto Economic Zones and Private Urbanization
-* ✨Native Metaverse Cooperatives. Design EIP
-* ✨Fractional Ownership of cities. A new class of assets. Multi dimensional assets
-* ✨The cyber city needs a Network of rollups.
-* ✨Turning Informal cities into powerful economies
+*✨ Digital Crypto Economic Zones as a plug and play platform<br>
+*✨ Digital Crypto Economic Zones and Private Urbanization<br>
+* ✨Native Metaverse Cooperatives. EIP<br>
+* ✨Fractional Ownership of cities. A new class of multi dimensional assets<br>
+* ✨The cyber city needs a Network of rollups.<br>
+* ✨Turning Informal cities into powerful economies<br>
 * ✨The cyber city as a metaverse<br>
 
 ### 🌐 The group will also organize a decentralized competition in the following context:
