@@ -28,14 +28,14 @@ We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policym
 
 ### Fields of interest
 ⎔ open source software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
- A strategic framework for governance and crypto assets regulation. EIP for digital cooperatives. 
- 🚥 Architectural and Urban Planning competition: System of Cities, Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
+ A strategic framework for governance and crypto assets regulation. EIP for digital cooperatives.<br>
+ 🚥 Architectural and Urban Planning competition:<br> System of Cities Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
 
 # 🚀 Self organising working group. Incentives system and community coordination
  We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
 
 
-# Governance token $CYURBAN
+# Governance token $CYOG
 The $LNDOG token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
 
 The MLV community token enables holders to contribute in many ways<br>
