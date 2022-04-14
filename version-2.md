@@ -36,8 +36,9 @@ This list 👇🏾 is open for consideration and is undergoing rapid iteration a
 * ✨Turning Informal cities into powerful economies<br>
 * ✨The cyber city as a metaverse<br>
 
-### 🌐 The group will also organize a decentralized competition in the following context:
-Design a unique transformative economic and social reform blueprint that is opening [insert region] up to the world. 
+### 🌐 Design a unique transformative economic and social reform blueprint that is opening [insert region] up to the world.
+The group will also organize a decentralized competition in the following context:
+ 
 
 ### prototype of a virtual city<br>
 The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.<br>
