@@ -12,24 +12,23 @@ The cyber-urban Metaverse is where and how contemporary urban people create a ne
 But it’s time to begin. It’s time to build!
 
 # 🛠 Building and running cities: A blueprint for Urbanization
-#### Collective development of a city. Fractional ownership. Revenue sharing among citizens!
-Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br> 
-Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
+#### Collective development of a city. Fractional ownership. Revenue sharing among citizens!<br>
+Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br><br>
+Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br><br>
 
-Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives.<br> 
-
+Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives.<br><br> 
 The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
 Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
 
 # 👫 Decentralized Autonomous Working Group for Joint development  👫👫👫👫
 #### What is the purpose of the working group?
-The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.
+The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.<br> Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
-We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.
+We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 
 ### Fields of interest
-⎔ This project category is in open source software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
+⎔ open source software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
  A strategic framework for governance and crypto assets regulation. EIP for digital cooperatives. 
  🚥 Architectural and Urban Planning competition: System of Cities, Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
 
