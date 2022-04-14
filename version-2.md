@@ -41,7 +41,7 @@ This is a living document and we will update it as the community grows and the p
 
 But it’s time to begin. It’s time to build.
 
-# 🚀 Self Organizing Community: The ecosystem
+# 🚀 incentives system and governance structures
 We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute.  build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
 We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
 
