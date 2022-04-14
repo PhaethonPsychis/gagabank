@@ -26,7 +26,7 @@ The aim of this working group is to study, research and develop the field of fra
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
 ### 👉This working group will study the following areas:<br>
-This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes
+This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes<br>
 *✨ Digital Crypto Economic Zones as a plug and play platform
 *✨ Digital Crypto Economic Zones and Private Urbanization
 * ✨Native Metaverse Cooperatives. Design EIP
