@@ -24,7 +24,7 @@ Citizens interact with digital organizations through their avatar representation
 The CyberUrban metaverse offer a better vision for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.
 
 
-# 👫 Decentralized Autonomous Working Group and Joint development Program  👫👫👫👫
+# 👫 Decentralized Autonomous Working Group for Joint development  👫👫👫👫
 We initiate a decentralized working group to start developing the discourse on the vision for Cyber Urban Cities.  
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 ### Deliverables
