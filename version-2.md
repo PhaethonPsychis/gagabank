@@ -70,4 +70,4 @@ coordinate actions towards a common goal, create, exchange, and take ownership o
 The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><be>..
 ...
 
-  This is a living document and we will update it as the community grows and the project evolves.<br>
+  This is a living document and we will update it as the community grows and the project evolves<br>
