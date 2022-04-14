@@ -22,9 +22,8 @@ Citizens interact with digital organizations through their avatar representation
 
 # 👫 Decentralized Autonomous Working Group for Joint development  👫👫👫👫
 #### What is the purpose of the working group?
-The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.<br> Building that vision is a task too large and too important for any organization to tackle on its own.<br>
+The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
-We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 
 ### Fields of interest
@@ -32,9 +31,9 @@ We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policym
  A strategic framework for governance and crypto assets regulation. EIP for digital cooperatives. 
  🚥 Architectural and Urban Planning competition: System of Cities, Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
 
-# 🚀 Incentives system and community coordination
-  build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
-We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
+# 🚀 Self organising working group. Incentives system and community coordination
+ We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
+
 
 # Governance token $CYURBAN
 The $LNDOG token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
