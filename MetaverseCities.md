@@ -1,11 +1,11 @@
 # ⚡️ A Metaverse for the cyberurban city
-This metaverse is specifically created for the design of cities that exists both in a physical geographical location as urban environments, and in cyberspace. People who live in this metaverse participate in both worlds using their avatars<br>
+This metaverse is specifically created for the design of cities that exists both in a physical geographical location as urban environments, and in cyberspace. People who live in this metaverse participate in both worlds using their avatars.<br>
 
-This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the urban environment<br>
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the urban environment.<br>
 
-The metaverse is used as a platform for decentralised participatory systems to enable people to share ownership and govern the cyber-physical space and receive the earnings of the city<br>
+The metaverse is used as a platform for decentralised participatory systems to enable people to share ownership and govern the cyber-physical space and receive the earnings of the city.<br>
 
-In its final form this metaverse is populated by avatar representations of real people that share ownership of their city and the cyber space <br>
+In its final form, the metaverse will be populated by avatar representations of real people who share ownership of their city and the cyber space. <br>
 
 # 💎 A new era for cyberurban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
