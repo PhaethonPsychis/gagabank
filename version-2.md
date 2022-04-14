@@ -25,7 +25,7 @@ The fractional city offers a better model for how societies should develop citie
 The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
-👉This working group will study the following areas:
+### 👉This working group will study the following areas:<br>
 This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes
 *✨ Digital Crypto Economic Zones as a plug and play platform
 *✨ Digital Crypto Economic Zones and Private Urbanization
@@ -42,8 +42,8 @@ Design a unique transformative economic and social reform blueprint that is open
 The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.<br>
 This is an outline of our intentions. It is up to the community to continue these projects and to build on the work that has been done.
 
-# 🚀 Self organising working group. Incentives system and community coordination
- We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
+# 🚀 Our ecosystem
+We create an incentives system and and governance structuree to provide community with the means to coordinate towards a common goal. We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
 
 
 # Governance token $CYOG
