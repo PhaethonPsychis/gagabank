@@ -3,7 +3,7 @@
 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the physical urban environment at.<br><br>
 
-The fractionalisation of the city is a new paradigm that is creating new types of asset classes in all three realities in the physical, cyber urban and virtual space. These multi dimensional assets are used for the collective governance, management and development of the city from the metaverse.
+The fractionalisation of the city is a new paradigm that is creating new types of asset classes in all three realities in the physical, cyber urban and virtual space. These multi dimensional assets are used for the collective governance, management and development of the city from the metaverse.<br>
 The new cyber-urban city is a metaverse, that enables 
 
 
@@ -16,8 +16,7 @@ But it’s time to begin. It’s time to build!
 Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br> 
 Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
 
-Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives. 
-
+Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives.<br> 
 
 The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
 Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
@@ -37,8 +36,6 @@ We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policym
 # 🚀 Incentives system and community coordination
   build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
 We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
-
-
 
 # Governance token $CYURBAN
 The $LNDOG token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
