@@ -9,6 +9,7 @@ The new cyber-urban city is a metaverse, that enables
 
 # 💎 A new era for cyber-urban life
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
+But it’s time to begin. It’s time to build!
 
 # 🛠 Building and running cities: A blueprint for Urbanization
 #### Collective development. Fractional ownership of the city. Revenue sharing among citizens!
@@ -28,19 +29,10 @@ The aim of this working group is to study, research and develop the field of fra
 We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 
-### Deliverables
--A strategic framework for collectively funding, developing, regulating and governing CyberUrban Cities that will lead to new ways of cyberurban living. A metaverse.
-These deliverables are in software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
-
--Vision Projects combining Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
-
--A decentralised Metaverse Lands system
-
-
-
-This is a living document and we will update it as the community grows and the project evolves.<br>
-
-But it’s time to begin. It’s time to build.
+### Fields of interest
+⎔ This project category is in open source software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
+ A strategic framework for governance and crypto assets regulation. EIP for digital cooperatives. 
+ 🚥 Architectural and Urban Planning competition: System of Cities, Digital Crypto-Economic Zones and Urban developments in critical geographic locations governed through a Metaverse platform
 
 # 🚀 Incentives system and community coordination
   build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
@@ -77,3 +69,5 @@ coordinate actions towards a common goal, create, exchange, and take ownership o
 ####  What kind of technology is the metaverse?
 The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><be>..
 ...
+
+  This is a living document and we will update it as the community grows and the project evolves.<br>
