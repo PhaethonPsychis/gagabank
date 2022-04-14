@@ -20,7 +20,7 @@ Citizens interact with digital organizations through their avatar representation
 #### What is the purpose of the CyberUrban City?
 The purpose of the CyberUrban City is to lift millions of people out of poverty, create equitable economic growth, and develop new forms of cooperation and participatory governance.
 
-# 👫 Joint development  👫👫👫👫
+# 👫 Decentralized Autonomous Working Group and Joint development Program  👫👫👫👫
 The CyberUrban metaverse offer a better vision for how societies should develop cities. Building that vision is a task too large and too important for any organization to tackle on its own.
 We initiate a joint working program and we invite Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to contribute. The code is and will always be, opensource for everyone to use, share or modify<br><br>
 We will fix the working program as a community through online discusion and voting using metaverse native tools. Engaging in this procedures will help all build capacity and start experiencing the metaverse<br>
