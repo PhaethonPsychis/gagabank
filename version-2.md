@@ -11,22 +11,23 @@ The new cyber-urban city is a metaverse, that enables
 The cyber-urban Metaverse is where and how contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 
 # 🛠 Building and running cities: A blueprint for Urbanization
-#### Collective development and fractional ownership of the city. Revenue sharing among citizens!
-Think of the metaverse as a powerhouse that enables a decentralised collective of people contribute to the joint development of a city. 
+#### Collective development. Fractional ownership of the city. Revenue sharing among citizens!
+Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br> 
+Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
 
-Communities plugin and use the metaverse as as a platform to access a strategic policy framework for governance, and shared ownership.<br>
+Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives. 
 
-In the CyberUrban City any kind of organization public, private, or nonprofit can be established as a cyber-cooperative. The meta city is a decentralised network of all these cooperatives. Metaverse operates as a platform for a decentralised governance framework, that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
+
 The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
 Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
 
-#### What is the purpose of the CyberUrban City?
-The CyberUrban metaverse offer a better vision for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.
-
-
 # 👫 Decentralized Autonomous Working Group for Joint development  👫👫👫👫
-We initiate a decentralized working group to start developing the discourse on the vision for Cyber Urban Cities.  
+#### What is the purpose of the working group?
+The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.
+The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
+We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
+
 ### Deliverables
 -A strategic framework for collectively funding, developing, regulating and governing CyberUrban Cities that will lead to new ways of cyberurban living. A metaverse.
 These deliverables are in software format. The code is and will always be, opensource for everyone to use, share or modify<br><br>
@@ -41,8 +42,8 @@ This is a living document and we will update it as the community grows and the p
 
 But it’s time to begin. It’s time to build.
 
-# 🚀 incentives system and governance structures
-We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute.  build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
+# 🚀 Incentives system and community coordination
+  build the agendsOur aim is to incentivize people to participate and contribute in a self-organizing manner based on aligned incentives, common interests and personal growth. 
 We provide an incentives system and some basic tools to allow the community formation from the ground up in an organic manner.
 
 
