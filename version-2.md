@@ -48,19 +48,20 @@ This is an outline of our intentions. It is up to the community to continue thes
 We create an incentives system and and governance structuree to provide community with the means to coordinate towards a common goal. We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
 
 
-# Governance token $CYOG
-The $LNDOG token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
+# Governance token $VOTE
+The $VOTE token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
 
-The MLV community token enables holders to contribute in many ways<br>
-📢 Innovative participation.The MLV gives a voting right to community members to express their views, vote for what they believe, and exercise control.<br> 
-💰 MLV tokens represent community resources to share across the network where all participating services and products accept<br>
-The MLV tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
+The $VOTE community token enables holders to contribute in many ways<br>
+📢 Innovative participation.The $VOTE gives a voting right to community members to express their views, vote for what they believe, and exercise control.<br> 
+💰 $VOTE tokens represent community resources to share across the network where all participating services and products accept<br>
+The $VOTE tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
 
-🏗 MLV tokens are redeemable for metaverse land. You may exchange your MLV tokens to buy virtual land at a desirable address or a meta-domain name.<br>
-MLV tokens can also be used to redeem future services, such as a participation certificate.<br>
+🏗 $VOTE tokens are redeemable for metaverse land. You may exchange your $VOTE tokens to buy virtual land at a desirable address or a meta-domain name.<br>
+$VOTE tokens can also be used to redeem future services, such as a participation certificate.<br>
 
 
 # 📬 Name and addresses registry
+An address system for the avatars to find their way on Metaverse
 
 # 🏙 Metaverse Lands  
 A Virtual Land registry system to serve a community-building platform facilitating social interaction, commerce, and entertainment.
@@ -75,7 +76,6 @@ that allow people to take ownership of the cyberurban and part
 coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
 
 ####  What kind of technology is the metaverse?
-The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><be>..
-...
+The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><br>
 
-  This is a living document and we will update it as the community grows and the project evolves<br>
+This is a living document and we will update it as the community grows and the project evolves<br>
